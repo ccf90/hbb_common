@@ -104,7 +104,7 @@ const CHARS: &[char] = &[
 // pub const RENDEZVOUS_PORT: i32 = 21116;
 // pub const RELAY_PORT: i32 = 21117;
 
-// bsy-ccf
+// bsy-ccf 2025-05-12
 pub const RENDEZVOUS_SERVERS: &[&str] = &["124.223.9.127"];
 pub const RS_PUB_KEY: &str = "FTNMiphzxuZbZ5xds61G4fEFGo9eNTfrfLn4R+ZVLHI=";
 
